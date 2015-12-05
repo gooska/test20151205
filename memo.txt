@@ -1,0 +1,5 @@
+GitHub  OK
+OpenShift OK
+  Jenkinsと、ビルド環境ほしいね。
+AWSでサーバ借りよう。
+IDE何にしようか。。。
